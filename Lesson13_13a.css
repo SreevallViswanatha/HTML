@@ -1,0 +1,23 @@
+.total-flexbox {
+  display: flex;
+  height: 60px;
+}
+
+.smaller-flexbox {
+  display: flex;
+  background-color: lightpink;
+  width: 100px;
+}
+
+.bigger-flexbox {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.text-flexbox {
+  background-color: black;
+  color: white;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
